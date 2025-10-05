@@ -1,4 +1,4 @@
-# WarpedWingLabs
+# WarpedWing Labs
 
 [![WarpedWing Labs](https://github.com/WarpedWing/WarpedWing/blob/main/WarpedWingLabsIcon_Compressed200x200.png)](https://github.com/WarpedWing/WarpedWing)
 
