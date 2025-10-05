@@ -1,4 +1,4 @@
-# WarpedWing Labs
+[![WarpedWing Labs](https://github.com/WarpedWing/WarpedWing/blob/main/WarpedWingLabsTextOnly.png?raw=true)](https://github.com/WarpedWing/)
 
 Passionate about digital forensics.
 
