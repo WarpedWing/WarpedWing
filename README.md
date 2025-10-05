@@ -1,4 +1,4 @@
-[![WarpedWing Labs](https://raw.githubusercontent.com/WarpedWing/WarpedWing/refs/heads/main/WarpedWingLabsLogo_Horizontal_Compressed_W500.png)](https://github.com/WarpedWing/)
+[![WarpedWing Labs](https://raw.githubusercontent.com/WarpedWing/WarpedWing/refs/heads/main/WarpedWingLabsLogo_Horizontal_Compressed_W500_blur.png)](https://github.com/WarpedWing/)
 
 Passionate about digital forensics.
 
