@@ -1,12 +1,10 @@
-# [![WarpedWing Labs](https://github.com/WarpedWing/WarpedWing/blob/main/WarpedWingLabsIcon_Compressed.png?raw=true)](https://github.com/WarpedWing/WarpedWing)WarpedWingLabs
+# WarpedWingLabs
 
-[![WarpedWing Labs](https://github.com/WarpedWing/WarpedWing/blob/main/WarpedWingLabsLogo400x400.png)](https://github.com/WarpedWing/WarpedWing)
+[![WarpedWing Labs](https://github.com/WarpedWing/WarpedWing/blob/main/WarpedWingLabsIcon_Compressed200x200.png)](https://github.com/WarpedWing/WarpedWing)
 
 Passionate about digital forensics.
 
 [noel@warpedwinglabs.com](mailto:noel@warpedwinglabs.com)
-
-## Projects
 
 ## PhotoRec Cleaner
 
