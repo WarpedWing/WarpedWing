@@ -1,6 +1,6 @@
 [![WarpedWing Labs](https://raw.githubusercontent.com/WarpedWing/WarpedWing/refs/heads/main/WarpedWingLabsLogo_Horizontal_Compressed_W500_blur.png)](https://github.com/WarpedWing/)
 
-Passionate about digital forensics.
+Passionate about digital forensics: the art and the science.
 
 [noel@warpedwinglabs.com](mailto:noel@warpedwinglabs.com)
 <br/>
