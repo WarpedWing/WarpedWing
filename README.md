@@ -1,4 +1,4 @@
-[![WarpedWing Labs](https://raw.githubusercontent.com/WarpedWing/WarpedWing/refs/heads/main/WarpedWingLabs_Logo_800x300.png)](https://github.com/WarpedWing/)
+<img src="https://raw.githubusercontent.com/WarpedWing/WarpedWing/refs/heads/main/WarpedWingLabs_Logo_800x300.png" width="600 px" alt="WarpedWing Labs Logo" />
 
 Passionate about the art and science of digital forensics.
 
@@ -9,7 +9,7 @@ Passionate about the art and science of digital forensics.
 
 ## MARS: macOS Artifact Recovery Suite
 
-[![MARS](https://img.youtube.com/vi/YKRyHVraYgI/0.jpg)](https://www.youtube.com/watch?v=YKRyHVraYgI)
+<a href="https://www.youtube.com/watch?v=YKRyHVraYgI" target="_blank"><img src="https://raw.githubusercontent.com/WarpedWing/WarpedWing/refs/heads/main/mars_thumb_for_gh.png" width="1000 px" alt="MARS: macOS Artifact Recovery Suite Intro" /></a>
 
 **MARS** is a data extraction and recovery toolkit for macOS that salvages and recovers SQLite, plist, log, and cache data from a set of raw, carved files and matches them with artifacts of forensic interest from a reference system.
 
